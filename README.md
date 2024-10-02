@@ -46,6 +46,6 @@ Scikit-learn: For the linear regression prediction model.
 Transformers: GPT-2 for generating AI-based stock reports.
 Matplotlib: For data visualization.
 🎥 Video Demo
-Check out the full video demo of the project on YouTube: NVIDIA Stock Prediction Bot Demo
+Check out the full video demo of the project on YouTube: NVIDIA Stock Prediction Bot Demo[https://youtu.be/d1XLEF34vmc]
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
