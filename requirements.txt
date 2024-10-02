@@ -1,1 +1,9 @@
 jupyterlab>3.0
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+transformers
+torch
