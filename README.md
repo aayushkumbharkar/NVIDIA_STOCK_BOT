@@ -9,9 +9,8 @@ Generative AI Insights: Leverages GPT-2 to generate detailed stock performance r
 User-Friendly Interface: Built with Streamlit, offering an interactive interface for easy stock analysis and predictions.
 🛠️ Installation
 Clone the repository:
+https://github.com/aayushkumbharkar/NVIDIA_STOCK_BOT
 
-
-git clone https://github.com/yourusername/NVIDIA-stock-price-prediction-app.git
 Navigate to the project directory:
 
 
